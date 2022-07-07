@@ -1,0 +1,20 @@
+/* Introduction */
+
+#img_profile_picture{
+  height: 150px;
+  border-radius: 50%;
+}
+
+#div_shorttext{
+  margin-bottom: 15px;
+}
+
+#div_description{
+  margin-bottom: 5px;
+  text-align: justify;
+}
+
+#div_hyperlinks{
+  margin-top: 25px;
+  height: 35px;
+}

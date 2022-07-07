@@ -1,0 +1,29 @@
+/* Introduction */
+
+#div_introduction_content{
+  display: inline-flex;
+  width: 1200px;
+}
+
+#img_profile_picture{
+  height: 200px;
+}
+
+#h1_caption{
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+#div_introduction_text{
+  display: grid;
+  margin-left: 15px;
+  text-align: left;
+}
+
+#div_description{
+  width: calc(100% - 250px);
+}
+
+#div_hyperlinks{
+  width: calc(100% - 250px);
+}
