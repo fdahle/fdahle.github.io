@@ -97,6 +97,7 @@ a:hover{
 
 .bibtex_link{
   color: -webkit-link;
+  cursor: pointer;
 }
 
 .pre_bibtex{
